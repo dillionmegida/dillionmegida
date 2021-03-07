@@ -1,6 +1,6 @@
 ### Hi there, I'm Dillion 👋
 
-A Frontend Engineer and Technical Writer from Kogi State, Nigeria. Passionate about learning, building and teaching.
+A Software Engineer and Technical Writer from Kogi State, Nigeria. Passionate about learning, building and teaching.
 
 <!-- - 🔭 I’m currently working on [sku -->
 <!-- - 🌱 I’m currently learning Web Accessibility practices and Getting better at React.
