@@ -15,3 +15,4 @@ A Software Engineer and Technical Writer from Kogi State, Nigeria. Passionate ab
 - ⚡ Fun fact
   - I want to make my family, friends and God, proud!
   - I love learning
+  - I want to write in as many puplications as I have the opportunity to. I want to get my content around the world.
