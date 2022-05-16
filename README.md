@@ -13,7 +13,8 @@ A Software Engineer, Developer Advocate and Content Creator from Nigeria. Passio
   - YouTube - [DillionMegida](https://bit.ly/2RMfqfX)
   - Twitter - [@iamdillion](https://twitter.com/iamdillion)
 - 😄 Pronouns: he/him
+- I also run **deeecode** on [Instagram](https://www.instagram.com/deeecode/) and [YouTube](https://www.youtube.com/channel/UCYcBEebHKfCZZKigbGa5Kpg) where I simplify the web and various tools
 - ⚡ Fun fact
   - I want to make my family, friends and God, proud!
-  - I love learning
+  - I love sharing my knowledge
   - I want to write in as many puplications as I have the opportunity to. I want to get my content around the world.
