@@ -17,6 +17,6 @@ A Software Engineer, Developer Advocate and Content Creator from Nigeria. Passio
 - ⚡ Fun fact
   - I want to make my family, friends and God, proud!
   - I love sharing my knowledge
-  - I want to write in as many puplications as I have the opportunity to. I want to get my content around the world.
-  - 
+  - I want to write in as many publications as I have the opportunity to. I want to get my content around the world.
+  
 ![Visitor count](https://visitor-badge.glitch.me/badge?page_id=dillionmegida.visitor-badge)
