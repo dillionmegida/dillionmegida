@@ -5,9 +5,9 @@ A Software Engineer, Developer Advocate and Content Creator from Nigeria. Passio
 <!-- - 🔭 I’m currently working on [sku -->
 <!-- - 🌱 I’m currently learning Web Accessibility practices and Getting better at React.
 - 👯 I’m looking to remote job opportunites to contribute my building and teaching skills as a team player in an awesome company. -->
-- Developer Advocate 🥑 at [Stream](http://getstream.io/)
+- Developer Advocate 🥑 at [Adyen](https://www.adyen.com/)
 - Technical Writer at [FreeCodeCamp](https://www.freecodecamp.org/news/author/dillionmegida/), [LogRocket](https://blog.logrocket.com/author/dillion-megida/), and few other places.
-- 💬 Ask me about Frontend Development, JavaScript, React, NextJS, GatsbyJS, [Stream](http://getstream.io/) maybe Node, and [Getting Started with Technical Writing](https://writing.dillionmegida.com/)
+- 💬 Ask me about Frontend Development, JavaScript, React, NextJS, GatsbyJS, maybe Node, and [Getting Started with Technical Writing](https://writing.dillionmegida.com/)
 - 📫 How to reach me:
   - Website - [dillionmegida.com](https://dillionmegida.com/)
   - YouTube - [DillionMegida](https://bit.ly/2RMfqfX)
